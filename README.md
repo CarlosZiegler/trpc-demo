@@ -89,7 +89,7 @@ Go to [dashboard.render.com/blueprints](https://dashboard.render.com/blueprints)
     </tr>
     <tr>
       <td><a href="./src/server/routers"><code>./src/server/routers</code></a></td>
-      <td>Your app.s different tRPC-routers</td>
+      <td>Your app different tRPC-routers</td>
     </tr>
   </tbody>
 </table>
