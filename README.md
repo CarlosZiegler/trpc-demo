@@ -93,5 +93,3 @@ Go to [dashboard.render.com/blueprints](https://dashboard.render.com/blueprints)
     </tr>
   </tbody>
 </table>
-
----
